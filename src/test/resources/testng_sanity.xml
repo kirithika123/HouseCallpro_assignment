@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="House call pro automation test suite">
+  <listeners>
+    <listener 
+       class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+    </listeners>
+	<test name="Housecall pro test cases">
+         <classes>
+			
+			<class name="com.house.qa.testcases.DashboardPageTest"></class>
+			
+		</classes>
+	</test>
+	
+</suite>

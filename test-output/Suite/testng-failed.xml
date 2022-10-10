@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="4" parallel="tests" name="ChromeTest(failed)">
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.house.qa.testcases.DashboardPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="validateDashboardURLTest"/>
+        </methods>
+      </class> <!-- com.house.qa.testcases.DashboardPageTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

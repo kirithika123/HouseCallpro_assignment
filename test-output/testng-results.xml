@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-09T18:40:15 CDT" name="House call pro automation test suite" finished-at="2022-10-09T18:47:11 CDT" duration-ms="416130">
+    <groups>
+    </groups>
+    <test started-at="2022-10-09T18:40:15 CDT" name="Housecall pro test cases" finished-at="2022-10-09T18:47:11 CDT" duration-ms="416130">
+      <class name="com.house.qa.testcases.SchedulePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.SchedulePageTest@4738a206]" started-at="2022-10-09T18:45:40 CDT" name="setUp" finished-at="2022-10-09T18:46:13 CDT" duration-ms="33109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="onActivityFeedTest()[pri:1, instance:com.house.qa.testcases.SchedulePageTest@4738a206]" started-at="2022-10-09T18:46:13 CDT" name="onActivityFeedTest" finished-at="2022-10-09T18:46:25 CDT" duration-ms="11271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onActivityFeedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.SchedulePageTest@4738a206]" started-at="2022-10-09T18:46:25 CDT" name="tearDown" finished-at="2022-10-09T18:46:26 CDT" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.SchedulePageTest@4738a206]" started-at="2022-10-09T18:46:26 CDT" name="setUp" finished-at="2022-10-09T18:46:57 CDT" duration-ms="31286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="onValidateScheduleButtonTest()[pri:2, instance:com.house.qa.testcases.SchedulePageTest@4738a206]" started-at="2022-10-09T18:46:57 CDT" name="onValidateScheduleButtonTest" finished-at="2022-10-09T18:47:10 CDT" duration-ms="12864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onValidateScheduleButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.SchedulePageTest@4738a206]" started-at="2022-10-09T18:47:10 CDT" name="tearDown" finished-at="2022-10-09T18:47:11 CDT" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.house.qa.testcases.SchedulePageTest -->
+      <class name="com.house.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.LoginPageTest@7ea9e1e2]" started-at="2022-10-09T18:40:15 CDT" name="setUp" finished-at="2022-10-09T18:40:28 CDT" duration-ms="12854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateloginPageURLTest()[pri:1, instance:com.house.qa.testcases.LoginPageTest@7ea9e1e2]" started-at="2022-10-09T18:40:28 CDT" name="validateloginPageURLTest" finished-at="2022-10-09T18:40:30 CDT" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateloginPageURLTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.LoginPageTest@7ea9e1e2]" started-at="2022-10-09T18:40:30 CDT" name="tearDown" finished-at="2022-10-09T18:40:31 CDT" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.LoginPageTest@7ea9e1e2]" started-at="2022-10-09T18:40:31 CDT" name="setUp" finished-at="2022-10-09T18:40:41 CDT" duration-ms="10166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="onClickloginPageTest()[pri:2, instance:com.house.qa.testcases.LoginPageTest@7ea9e1e2]" started-at="2022-10-09T18:40:41 CDT" name="onClickloginPageTest" finished-at="2022-10-09T18:40:44 CDT" duration-ms="2969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onClickloginPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.LoginPageTest@7ea9e1e2]" started-at="2022-10-09T18:40:44 CDT" name="tearDown" finished-at="2022-10-09T18:40:45 CDT" duration-ms="972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.house.qa.testcases.LoginPageTest -->
+      <class name="com.house.qa.testcases.NewjobsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:41:41 CDT" name="setUp" finished-at="2022-10-09T18:42:13 CDT" duration-ms="32427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newJobsURLTest()[pri:1, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:42:13 CDT" name="newJobsURLTest" finished-at="2022-10-09T18:42:14 CDT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newJobsURLTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:42:14 CDT" name="tearDown" finished-at="2022-10-09T18:42:15 CDT" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:42:15 CDT" name="setUp" finished-at="2022-10-09T18:42:48 CDT" duration-ms="32858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCustomerDetailsTest()[pri:2, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:42:48 CDT" name="validateCustomerDetailsTest" finished-at="2022-10-09T18:42:54 CDT" duration-ms="5938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCustomerDetailsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:42:54 CDT" name="tearDown" finished-at="2022-10-09T18:42:57 CDT" duration-ms="3221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:42:57 CDT" name="setUp" finished-at="2022-10-09T18:43:35 CDT" duration-ms="38015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateItemNameTest()[pri:2, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:43:35 CDT" name="validateItemNameTest" finished-at="2022-10-09T18:43:39 CDT" duration-ms="4127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateItemNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:43:39 CDT" name="tearDown" finished-at="2022-10-09T18:43:41 CDT" duration-ms="2465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:43:42 CDT" name="setUp" finished-at="2022-10-09T18:44:18 CDT" duration-ms="35602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="onClickSaveJobTest(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:44:18 CDT" name="onClickSaveJobTest" data-provider="getHouseCallTestData" finished-at="2022-10-09T18:44:26 CDT" duration-ms="8596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[krithika2010@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[car]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kindly, call before coming]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onClickSaveJobTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:44:26 CDT" name="tearDown" finished-at="2022-10-09T18:44:28 CDT" duration-ms="1801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:44:28 CDT" name="setUp" finished-at="2022-10-09T18:45:02 CDT" duration-ms="33445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="onClickSaveJobTest(java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:45:02 CDT" name="onClickSaveJobTest" data-provider="getHouseCallTestData" finished-at="2022-10-09T18:45:09 CDT" duration-ms="7702" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[garage]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Please make sure to come on time]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onClickSaveJobTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:45:09 CDT" name="tearDown" finished-at="2022-10-09T18:45:11 CDT" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:45:11 CDT" name="setUp" finished-at="2022-10-09T18:45:34 CDT" duration-ms="23486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePrivateNotesButtonTest()[pri:3, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:45:34 CDT" name="validatePrivateNotesButtonTest" finished-at="2022-10-09T18:45:39 CDT" duration-ms="4392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePrivateNotesButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.NewjobsPageTest@614ca7df]" started-at="2022-10-09T18:45:39 CDT" name="tearDown" finished-at="2022-10-09T18:45:40 CDT" duration-ms="1477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.house.qa.testcases.NewjobsPageTest -->
+      <class name="com.house.qa.testcases.DashboardPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.DashboardPageTest@5acf93bb]" started-at="2022-10-09T18:40:45 CDT" name="setUp" finished-at="2022-10-09T18:40:59 CDT" duration-ms="13656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateDashboardPageTest()[pri:1, instance:com.house.qa.testcases.DashboardPageTest@5acf93bb]" started-at="2022-10-09T18:40:59 CDT" name="validateDashboardPageTest" finished-at="2022-10-09T18:41:09 CDT" duration-ms="10059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashboardPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.DashboardPageTest@5acf93bb]" started-at="2022-10-09T18:41:09 CDT" name="tearDown" finished-at="2022-10-09T18:41:10 CDT" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.house.qa.testcases.DashboardPageTest@5acf93bb]" started-at="2022-10-09T18:41:10 CDT" name="setUp" finished-at="2022-10-09T18:41:24 CDT" duration-ms="14180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="onClickNewJobTest()[pri:2, instance:com.house.qa.testcases.DashboardPageTest@5acf93bb]" started-at="2022-10-09T18:41:24 CDT" name="onClickNewJobTest" finished-at="2022-10-09T18:41:40 CDT" duration-ms="15291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onClickNewJobTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.house.qa.testcases.DashboardPageTest@5acf93bb]" started-at="2022-10-09T18:41:40 CDT" name="tearDown" finished-at="2022-10-09T18:41:41 CDT" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.house.qa.testcases.DashboardPageTest -->
+    </test> <!-- Housecall pro test cases -->
+  </suite> <!-- House call pro automation test suite -->
+</testng-results>
