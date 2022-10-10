@@ -30,13 +30,13 @@ public class LoginPageTest extends TestBase{
 	}
 	
 	@Test(priority=1)
-	public void validateloginPageURLTest() {
+	public void validateLoginPageURLTest() {
 		String url=loginPage.validateLoginPageURL();
 		Assert.assertEquals(url, "https://pro.housecallpro.com/pro/log_in");
 	}
 	
 	@Test(priority=2)
-	public void onClickloginPageTest() throws IOException {
+	public void onClickLoginPageTest() throws IOException {
 		dashboardPage=loginPage.onClickLoginPage(prop.getProperty("username"), prop.getProperty("password"));
 		
 	}
